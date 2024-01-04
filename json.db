@@ -1,0 +1,30 @@
+[
+  {
+    "descricao": "(FMB) ACIDO MALICO",
+    "codigo": "01310181049",
+    "cod_unidade": "KG",
+    "validade": "27/01/2024",
+    "quantidade": "18.7",
+  },
+  {
+    "descricao": "AROMA ID NAT MOCCHA VANILLA PO R23662-73 CAFFEINE",
+    "codigo": "01310219037",
+    "cod_unidade": "KG",
+    "validade": "27/11/2024",
+    "quantidade": "40.5",
+  },
+  {
+    "descricao": "BICARBONATO DE SODIO EXTRA FINO",
+    "codigo": "011101000066",
+    "cod_unidade": "KG",
+    "validade": "31/07/2025",
+    "quantidade": "19.7",
+  },
+  {
+    "descricao": "CACAU EM PO COM ALCALI BENSDO CAFFEINE",
+    "codigo": "01310219030",
+    "cod_unidade": "KG",
+    "validade": "21/09/2025",
+    "quantidade": "7",
+  }
+]
