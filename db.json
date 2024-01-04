@@ -1,4 +1,4 @@
-"produtos" : [
+{"produtos" : [
   {
     "descricao": "(FMB) ACIDO MALICO",
     "codigo": "01310181049",
@@ -108,3 +108,4 @@
     "alocado": "0"
   }
 ]
+}
