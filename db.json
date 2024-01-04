@@ -1,30 +1,110 @@
-[
+"produtos" : [
   {
     "descricao": "(FMB) ACIDO MALICO",
     "codigo": "01310181049",
     "cod_unidade": "KG",
+    "lote": "23MP000373",
+    "lote_fornecedor": "2201076",
     "validade": "27/01/2024",
-    "quantidade": "18.7"
+    "quantidade": "18.7",
+    "deposito": "001",
+    "localizacao": "R.01.02",
+    "alocado": "0"
   },
   {
     "descricao": "AROMA ID NAT MOCCHA VANILLA PO R23662-73 CAFFEINE",
     "codigo": "01310219037",
     "cod_unidade": "KG",
+    "lote": "23MP02621",
+    "lote_fornecedor": "23026277",
     "validade": "27/11/2024",
-    "quantidade": "40.5"
+    "quantidade": "40.5",
+    "deposito": "001",
+    "localizacao": "R.01.02",
+    "alocado": "0"
   },
   {
     "descricao": "BICARBONATO DE SODIO EXTRA FINO",
     "codigo": "011101000066",
     "cod_unidade": "KG",
+    "lote": "23MP02652",
+    "lote_fornecedor": "096455",
     "validade": "31/07/2025",
-    "quantidade": "19.7"
+    "quantidade": "19.7",
+    "deposito": "001",
+    "localizacao": "R.01.02",
+    "alocado": "0"
   },
   {
     "descricao": "CACAU EM PO COM ALCALI BENSDO CAFFEINE",
     "codigo": "01310219030",
     "cod_unidade": "KG",
+    "lote": "23MP02298",
+    "lote_fornecedor": "0036072444",
     "validade": "21/09/2025",
-    "quantidade": "7"
+    "quantidade": "7",
+    "deposito": "001",
+    "localizacao": "R.01.02",
+    "alocado": "0"
+  },
+  {
+    "descricao": "CACAU EM PO COM ALCALI BENSDO CAFFEINE",
+    "codigo": "01310219030",
+    "cod_unidade": "KG",
+    "lote": "23MP02630",
+    "lote_fornecedor": "2311181441",
+    "validade": "21/04/2025",
+    "quantidade": "24",
+    "deposito": "001",
+    "localizacao": "R.01.02",
+    "alocado": "0"
+  },
+  {
+    "descricao": "CAFE SOLUVEL CAFFEINE CACIQUE",
+    "codigo": "01310219014",
+    "cod_unidade": "KG",
+    "lote": "23MP02450",
+    "lote_fornecedor": "113823",
+    "validade": "30/09/2024",
+    "quantidade": "12",
+    "deposito": "001",
+    "localizacao": "R.01.02",
+    "alocado": "0"
+  },
+  {
+    "descricao": "CAFE SOLUVEL IGUACU CAFFEINE",
+    "codigo": "01310219073",
+    "cod_unidade": "KG",
+    "lote": "23MP02617",
+    "lote_fornecedor": "5023",
+    "validade": "16/04/2025",
+    "quantidade": "12",
+    "deposito": "001",
+    "localizacao": "R.01.02",
+    "alocado": "0"
+  },
+  {
+    "descricao": "COLAGENO VERISOL P 15KG CAFFEINE",
+    "codigo": "01310219036",
+    "cod_unidade": "KG",
+    "lote": "23MP02599",
+    "lote_fornecedor": "H4508555",
+    "validade": "17/10/2028",
+    "quantidade": "4.5",
+    "deposito": "001",
+    "localizacao": "R.01.02",
+    "alocado": "0"
+  },
+  {
+    "descricao": "TAURINA CAFFEINE",
+    "codigo": "01310219007",
+    "cod_unidade": "KG",
+    "lote": "23MP02620",
+    "lote_fornecedor": "C002-YB2305518",
+    "validade": "13/05/2026",
+    "quantidade": "25",
+    "deposito": "001",
+    "localizacao": "R.01.02",
+    "alocado": "0"
   }
 ]
